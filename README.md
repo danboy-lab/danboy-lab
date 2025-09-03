@@ -17,7 +17,6 @@ Aqui você vai encontrar desde experimentos curiosos até projetos open-source p
 ## 🔹 Sobre Mim  
 
 - 🐍 Desenvolvedor Python com foco em **automação e utilitários**  
-- 🎮 Crio sistemas e **jogos de RPG em texto**, inspirado por animes, mundos de fantasia e isekai  
 - 📚 Gosto de organizar e compilar conteúdos open-source para a comunidade  
 - 💡 Sempre buscando **aprender e colaborar** com projetos que possam ser úteis para outras pessoas  
 
