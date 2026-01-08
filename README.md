@@ -23,7 +23,7 @@ Developer focused on practical solutions and open-source Python projects designe
 
 - **[morse](https://github.com/danboy-lab/morse)** – Simple Morse code encoder/decoder  
 - **[rpgtext](https://github.com/danboy-lab/rpgtext)** – Python text-based RPG game
-
+- **[cellautopy](https://github.com/danboy-lab/cellautopy)** - Cellular Automata Python Map Generation
 ---
 
 ## Contact
